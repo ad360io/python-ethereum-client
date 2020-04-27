@@ -55,7 +55,7 @@ setup(
     install_requires=[
         'bidict',
         'pycryptodome',
-        'requests==2.18.4',
+        'requests==2.20.0',
         'six',
     ],
     test_requires=[
